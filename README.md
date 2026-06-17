@@ -39,6 +39,7 @@ PyCaret depends on compiled native libraries (`lightgbm`, `xgboost`, `catboost`,
 
 - **[usage_instructions.md](usage_instructions.md)** — for participants: how to open and run the live notebook.
 - **[setup_instructions.md](setup_instructions.md)** — for maintainers: how to publish any notebook to GitHub Pages this way.
+- **[FORK_AND_DEPLOY.md](FORK_AND_DEPLOY.md)** — for others: fork this repo and run your own copy in 5 steps.
 
 ## Repository layout
 
